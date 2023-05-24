@@ -1,4 +1,4 @@
-# Hi there, I'm [Denis](https://wanetol72.github.io/site/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm [Denis](https://wanetol72.github.io/site/)
 - ### Work in RDW Computers and write sites from Russia 🇷🇺
 - ### 👀 I’m interested in WebDev
 - ### 🌱 I’m currently learning JS, ReactJS and NodeJS
